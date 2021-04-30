@@ -1,0 +1,49 @@
+@media screen and (max-width: 500px){
+
+
+
+body{
+	background-color: red;
+
+	}
+}
+
+
+.op{
+	background-color: #46a1ea;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+
+
+
+
+.we{
+	background-color: #6965d5f2;
+	text-align: center;
+	font-size: 30px;
+}
+
+.flex{
+	display: flex;
+	height: 200px;
+}
+.us{
+   background-color: #bfda46;
+   width: 100%;
+   text-align: center;
+}
+
+.me{
+	background-color: #3ecb6d;
+	width: 100%;
+   text-align: center
+
+}
+ 
+.foot{
+	background-color: #b059bf;
+	height: 50px;
+	text-align: center;
+}
