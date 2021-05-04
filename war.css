@@ -1,0 +1,35 @@
+body{
+	background-color: chartreuse;
+}
+
+
+
+.op{
+	background-color: #b587b5;
+	margin-bottom: 0px;
+}
+
+
+
+
+
+.id{
+	background-color: purple;
+	float: left;
+	width: 50%;
+	height: 200px;
+}
+
+.pd{
+	background-color: red;
+	float: right;
+	width: 50%;
+	height: 200px;
+}
+.od{
+	background-color: turquoise;
+	float: left;
+
+	width: 100%;
+	height: 100px;
+}
