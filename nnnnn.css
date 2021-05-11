@@ -1,0 +1,17 @@
+.DD{
+ 
+	background-color: red;
+	width: 70%;
+	padding: 15px;
+	height: 70%;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+    border:50px solid black;
+	transform: translate(-50%, -50%);
+	border-image-source: url(ww/fr.png)  ;
+    border-image-slice: 40%;
+
+}
+
+
